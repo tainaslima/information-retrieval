@@ -48,7 +48,7 @@ Besides log messages, you should get as outcome the ensuing result:<br>
 ## Built with
 - Python 3.8.0 + libraries
 - Visual Studio Code
-- Windows
+- Windows 10
 
 ## Meta
 
