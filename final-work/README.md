@@ -9,7 +9,7 @@ To execute this application you must have installed the following tools and libr
 - Python 3.8.0 (maybe any 3.x works)
 - [Pandas library](https://pandas.pydata.org/)
 - IO, OS, datetime and CSV libraries (these are native from Python)
-- XMl library
+- XML library
 - [rank_bm25 library](https://pypi.org/project/rank-bm25/) 
 - [PrettyTable library](http://zetcode.com/python/prettytable/)
 
