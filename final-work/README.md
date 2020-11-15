@@ -42,5 +42,5 @@ If you execute "main.py" file using ```python PROBABILISTIC```as parameter of ``
 run(PROBABILISTIC)
 ```
 
-Taking out the log messages, you should get as outcome the ensuing result:
-
+Besides log messages, you should get as outcome the ensuing result:
+![](https://github.com/tainaslima/information-retrieval/tree/main/final-work/resultProb.jpg)
