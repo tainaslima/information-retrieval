@@ -19,7 +19,10 @@ To execute this application you must have installed the following tools and libr
 
 ## How to run the application
 
-After you download the application and before you run it, you must open the file "main.py" and choose which IR model do you want to execute, changing the global variable which goes inside the function "run".
+After you download the application you must download the metadata file of CORD-19. For that, you acess this [site](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html) and follow the instructions where they explain how to download an specific file; using <data_iso_str> as '2020-07-16' (without quotes) and <file_name> as 'metadata.csv' (again, without quotes). <br>
+Or you can just click [here](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-07-16/metadata.csv) to download the correct metadata file. <br>
+You also must save this file with the name 'metadata_20200716.csv' and save it in ```final_work_application/data/in``` folder.<br>
+Before you run it, you must open the file "main.py" and choose which IR model do you want to execute, changing the global variable which goes inside the function "run".
 ```python
 
 BOOLEAN = 0
