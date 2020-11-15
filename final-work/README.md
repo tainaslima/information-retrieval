@@ -43,4 +43,4 @@ run(PROBABILISTIC)
 ```
 
 Besides log messages, you should get as outcome the ensuing result:
-![](https://github.com/tainaslima/information-retrieval/tree/main/final-work/resultProb.jpg)
+![](resultProb.jpg)
