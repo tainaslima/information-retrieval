@@ -5,11 +5,17 @@ This work aims to retrieve information and evaluation its results using as docum
 
 
 ## Requirements
-
+To execute this application you must have installed the following tools and libraries:
+- Python 3.8.0 (maybe any 3.x works)
+- [Pandas library](https://pandas.pydata.org/)
+- IO, OS, datetime and CSV libraries (these are native from Python)
+- XMl library
+- [rank_bm25 library](https://pypi.org/project/rank-bm25/) 
+- [PrettyTable library](http://zetcode.com/python/prettytable/)
 
 ## How to run the application
 
-Before you run the application, you must open the file "main.py" and choose which IR model do you want to execute, changing the global variable which goes inside the function "run".
+After you download the application and before you run it, you must open the file "main.py" and choose which IR model do you want to execute, changing the global variable which goes inside the function "run".
 ```python
 
 BOOLEAN = 0
@@ -28,3 +34,13 @@ or
 ```sh
 python main.py
 ```
+## Usage example
+
+If you execute "main.py" file using ```python PROBABILISTIC```as parameter of ```python run``` function as following:
+```python
+
+run(PROBABILISTIC)
+```
+
+Taking out the log messages, you should get as outcome the ensuing result:
+
