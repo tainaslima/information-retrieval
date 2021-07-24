@@ -1,6 +1,6 @@
 # Information Retrieval
 
-> This repository contains all implementations made during the Information Retrieval class, lectured by Professor Giseli Lopes of Computer Science Department at Univerdade Federal do Rio de Janeiro. These class' codes are related with what were scheduled for Período Letivo Excepcional - PLE (exceptional school term) in 2020. 
+> This repository contains all implementations made during the Information Retrieval class, lectured by Professor Giseli Lopes of Computer Science Department at Universidade Federal do Rio de Janeiro. These class' codes are related with what were scheduled for Período Letivo Excepcional - PLE (exceptional school term) in 2020. 
 
 The program for this class consisted of weekly exercises to practice what were learned with the bibliography offered by the Professor and, at the end of course, we made a final project using a base recent article of the field to develop our own implementation.
 
